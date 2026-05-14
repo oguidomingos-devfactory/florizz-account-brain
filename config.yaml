@@ -4,6 +4,8 @@
 cliente:
   nome: "Florizz"
   slug: "florizz"
+  keywords:
+    - "Florizz"
   inicio: ""
   plano: ""
   valor_mensal: ""
