@@ -18,3 +18,16 @@
 | 2026-05-16 23:30 UTC | DES-100 sync | Florizz: Design posts + flyers tráfego pago — Florizz [done] |
 | 2026-05-16 23:30 UTC | DES-99 sync | Florizz: Copy social media 3 meses — Florizz [done] |
 | 2026-05-16 23:30 UTC | DES-94 sync | Florizz: Florizz [backlog] |
+| 2026-05-16 23:55 UTC | DES-126 | criado | Florizz: Vetorizar tulipa Florizz — fio capilar no caule |
+| 2026-05-16 23:55 UTC | DES-101 | criado | Florizz: Logo + identidade visual Florizz |
+| 2026-05-16 23:55 UTC | DES-106 | criado | Florizz: Copy social media Florizz — 1 mês de conteúdo |
+| 2026-05-16 23:55 UTC | DES-97 | criado | Florizz: Diagnóstico digital + estratégia de lançamento — Florizz |
+| 2026-05-16 23:55 UTC | DES-96 | criado | Florizz: Manual de identidade visual — Florizz |
+| 2026-05-16 23:55 UTC | DES-95 | criado | Florizz: Logo variações — Florizz Hair & Scalp Clinic |
+| 2026-05-16 23:55 UTC | DES-98 | criado | Florizz: Landing page — Florizz Hair & Scalp Clinic |
+| 2026-05-16 23:55 UTC | DES-125 | criado | Florizz: Pq tem dois projetos florizz |
+| 2026-05-16 23:55 UTC | DES-103 | criado | Florizz: Design visual posts Florizz — 1 mês |
+| 2026-05-16 23:55 UTC | DES-102 | criado | Florizz: Criativos Meta Ads Florizz — 6 flyers |
+| 2026-05-16 23:55 UTC | DES-100 | criado | Florizz: Design posts + flyers tráfego pago — Florizz |
+| 2026-05-16 23:55 UTC | DES-99 | criado | Florizz: Copy social media 3 meses — Florizz |
+| 2026-05-16 23:55 UTC | DES-94 | criado | Florizz: Florizz |
