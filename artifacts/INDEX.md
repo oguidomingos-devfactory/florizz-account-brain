@@ -10,3 +10,4 @@
 ## GitHub
 
 - Account brain: github.com/oguidomingos-devfactory/florizz-account-brain
+| 2026-06-11 | branding | [Fruto-da-Vide-Manual-Identidade-Visual-v1.0.docx](branding/2026-06-11-Fruto-da-Vide-Manual-Identidade-Visual-v1.0.docx) | https://docs.google.com/document/d/155VlZyE3qQxlzR2OrD-kkg2kPGrwZd4F/edit?usp=drivesdk&ouid=111081420100161252126&rtpof=true&sd=true |
